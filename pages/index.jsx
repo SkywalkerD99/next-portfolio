@@ -25,8 +25,11 @@ export default function Home({ allPostsData }) {
         <p>
           Hi there. My name is <b>Pape Issa FAYE</b>. I am a software engineer
           and a 3D Designer using <a href="https://www.blender.org">Blender</a>.<br/>
-          <a href="https://github.com/SkywalkerD99">Here</a>is my github profile.
+          <a href="https://github.com/SkywalkerD99">Here</a> is my github profile.
         </p>
+        {/*
+        This is the new thing **This is what is ** written.
+         */}
         <p>
           (This is a sample website - you'll be building a site like this on {''}
           <a href="https://nextjs.org/learn">our Next.js tutorial.</a>)
